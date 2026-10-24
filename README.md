@@ -1,6 +1,6 @@
 # Malins Games ? legal information
 
-Public privacy policy for the Android game Air Dispatcher / ?????????????.
+Public privacy policy for the Android game Air Dispatcher.
 
 Support: malins.games@yandex.ru
 
